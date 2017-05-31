@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LatihanMultimedia</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IN</string>
+
+    <string name="slide_1_title">NICE RADIO</string>
+    <string name="slide_1_desc">Radio di genggaman anda 1</string>
+
+    <string name="slide_2_title">NICE LIST</string>
+    <string name="slide_2_desc">Radio di genggaman anda 2</string>
+
+    <string name="slide_3_title">NICE SOUND</string>
+    <string name="slide_3_desc">Radio di genggaman anda 3</string>
+
+    <string name="slide_4_title">NICE FREQUENCY</string>
+    <string name="slide_4_desc">Radio di genggaman anda 4</string>
+
+</resources>
